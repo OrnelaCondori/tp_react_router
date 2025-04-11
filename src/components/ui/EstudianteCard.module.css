@@ -1,0 +1,9 @@
+.containerCard{
+    background-color:rgb(66, 66, 66);
+    width: 300px;
+    padding: 1rem;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,18 @@
+.containerScreen{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerContent h1,h2{
+    text-align: center;
+}
+.containerContent h2{
+    margin-bottom: 2rem;
+}
+.containerCard {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 12px;
+}

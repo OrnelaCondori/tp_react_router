@@ -1,0 +1,22 @@
+.containerCard{
+    background-color:rgb(66, 66, 66);
+    border-radius: 2rem;
+}
+.contentCard{
+    margin: 1rem 2rem ;
+}
+.containerContent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.containerContent h2{
+    margin-bottom: 4px;
+}
+.containerContent button {
+    padding: 12px 20px;
+    font-weight: 700;
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+}
